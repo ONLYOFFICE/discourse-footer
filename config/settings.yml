@@ -1,0 +1,4 @@
+plugins:
+  onlyoffice_whos_online_enabled:
+    default: true
+    client: true
