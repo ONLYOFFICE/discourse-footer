@@ -1,11 +1,11 @@
-# name: onlyoffice-discourse-whos-online
-# about: Info about active users for Discourse
+# name: onlyoffice-discourse-footer
+# about: Info about active users in footer
 # version: 0.1
 # authors: Ascensio System SIA
 
-enabled_site_setting :onlyoffice_whos_online_enabled
+enabled_site_setting :onlyoffice_discourse_footer_enabled
 
-PLUGIN_NAME ||= "onlyoffice-whos-online".freeze
+PLUGIN_NAME ||= "onlyoffice-discourse-footer".freeze
 
 after_initialize do
     module ::OnlyofficeWhosOnline
