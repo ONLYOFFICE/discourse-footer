@@ -1,6 +1,6 @@
 # name: onlyoffice-discourse-footer
 # about: Info about active users in footer
-# version: 0.2
+# version: 0.3
 # authors: Ascensio System SIA
 
 enabled_site_setting :onlyoffice_discourse_footer_enabled
